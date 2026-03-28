@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Parth Shah
 
-<!--
-**ParthDevOp/ParthDevOp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Final Year Student | Full Stack Developer | Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Final-year BCA student with a Commerce background (92 percentile)
+- Focused on building real-world, scalable web applications
+- Strong interest in full-stack development using the MERN stack
+- Goal-oriented towards securing a role in top-tier product-based companies
+
+---
+
+## Current Project
+**Mandvi Cart (Grocery Application)**  
+- Built using the MERN stack  
+- Implements role-based access control (RBAC)  
+- Handles real-time product and user interactions  
+
+---
+
+## Tech Stack
+
+### Frontend
+- HTML, CSS, JavaScript
+- React.js
+
+### Backend
+- Node.js, Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git, GitHub
+- VS Code
+- Postman
+
+---
+
+## Currently Learning
+- Data Structures and Algorithms (LeetCode)
+- System Design fundamentals
+- AI integration in web applications
+
+---
+
+## Contact
+- Email: pparth8108@gmail.com  
+- GitHub: https://github.com/ParthDevOp  
+
+---
+
+## Note
+I prefer building practical, real-world projects to strengthen my development skills.
