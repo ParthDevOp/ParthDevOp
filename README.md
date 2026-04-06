@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parth Shah
+#  Hi, I'm Parth Shah
 
 BCA Final Year Student | Full Stack Developer | Aspiring Software Engineer  
 
