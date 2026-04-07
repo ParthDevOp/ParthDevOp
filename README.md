@@ -1,4 +1,32 @@
-# Hi, I'm Parth Shah BCA Final Year Student | Full Stack Developer | Aspiring Software Engineer --- ## About Me - Final-year BCA student with a Commerce background (92 percentile) - Focused on building real-world, scalable web applications - Strong interest in full-stack development using the MERN stack - Goal-oriented towards securing a role in top-tier product-based companies ---
+# 👋 Hi, I'm Parth Shah
+
+🎓 BCA Final Year Student  
+💻 Full Stack Developer (MERN + PHP)  
+🎯 Aspiring Software Engineer  
+
+---
+
+## 🚀 About Me
+
+I am a full stack developer focused on building production-oriented web applications with scalable architecture and real-world use cases.
+
+My work emphasizes backend logic, role-based systems, and database-driven applications rather than static UI projects. I have developed systems such as eCommerce platforms and booking applications with authentication, state management, and persistent data handling.
+
+I am currently strengthening my problem-solving skills (DSA) and exploring system design and performance optimization to build efficient and scalable applications.
+
+---
+
+## 🧩 Featured Projects
+
+### 🛒 Mandvi Cart (MERN eCommerce)
+- Role-Based Access Control (Admin / User/ Seller / Rider / SuperAdmin)
+- Real-time product & order handling
+- REST API with structured backend architecture  
+
+### 🎬 QuickShow (Movie Booking System)
+- Full stack MERN application  
+- Admin dashboard + booking workflow  
+- Scalable backend and seat logic  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parthh__3107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Parth Shah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pparth8108@gmail.com) 
@@ -16,10 +44,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ParthDevOp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ParthDevOp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
